@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 #!/usr/bin/python3.12.3
 """
-main file to run the project
+main file to run the project and new
 """
 
 from handlers import user
